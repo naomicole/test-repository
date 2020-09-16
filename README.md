@@ -1,6 +1,6 @@
 # test-repository
 Swim
-swam
+Swam
 Swum
 remi
 the 
