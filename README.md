@@ -1,4 +1,7 @@
 # test-repository
 Swim
-SWam
+swam
 Swum
+remi
+the 
+rat from ratatouille 
